@@ -5,7 +5,7 @@ const D2 = () => {
   return (
     <div className="shop">
       <div className="shop-info">
-        <img className="shop-img" src="./img/42 (OneOne)/1 (2).jpg" alt="" />
+        <img className="shop-img" src="./img/42 (OneOne)/shop.jpg" alt="" />
         <h3 className="shop-name">D2 Bubble Tea နှင့် စားဖွယ်စုံ</h3>
       </div>
     </div>
