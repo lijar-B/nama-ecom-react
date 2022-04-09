@@ -3,8 +3,6 @@ import './App.css'
 import Navbar from './Components/Navbar'
 import './App.css'
 import { A, B, C, D2 } from './Components/Shop'
-import { Item } from './Components/Shop'
-import { a } from './db'
 
 function App() {
   return (
